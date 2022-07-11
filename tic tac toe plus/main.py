@@ -4,10 +4,6 @@
 # Title: tic tac toe plus
 
 # LOAD MODULES
-from matplotlib.pyplot import grid
-from numpy import size
-
-
 try:
     import sys
     import pygame
