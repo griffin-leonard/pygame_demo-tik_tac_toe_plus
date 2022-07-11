@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 #
 # Author: Griffin Leonard
-# Title: colors game
-# Genres: metroidvainia, 2d platformer
+# Title: tic tac toe plus
 
 # LOAD MODULES
 from matplotlib.pyplot import grid
